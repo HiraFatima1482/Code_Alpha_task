@@ -21,7 +21,7 @@ An interactive web application designed to manage a personal book library with a
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/web-based-book-library.git
+git clone https://https://github.com/HiraFatima1482/Code_Alpha_task3
 ```
 
 ### Navigate to the Project Directory
@@ -75,15 +75,7 @@ Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch:
    ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/YourFeatureName
+   git checkout -b feature/HiraFatima
    ```
 5. Open a pull request.
 
@@ -97,6 +89,19 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - Google Fonts
   - FontAwesome Icons
   - Coolors for color palettes
+Here's a sample contact section written in markdown syntax for your README:
 
 ---
+
+## Contact
+
+Feel free to reach out for collaboration or questions regarding this project:
+
+- **Name**: Hira Fatima
+- **Email**: ziaqamar690@gmail.com
+- **GitHub**:  https://github.com/HiraFatima1482
+
+
+---
+
 
